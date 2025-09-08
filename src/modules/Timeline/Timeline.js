@@ -84,7 +84,7 @@ export default function Timeline() {
         
         {!loading && timelineData.length > 0 && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
-            {timelineData.map(([date, tracks], index) => (
+            {timelineData.map(([date, tracks]) => (
               <div key={date} style={{
                 borderLeft: '3px solid var(--primary)',
                 paddingLeft: '1.5em',

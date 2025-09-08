@@ -52,7 +52,7 @@ export default function Sidebar() {
 
             {/* Navigation */}
             <nav style={{ display: 'flex', flexDirection: 'column', gap: '0.25em' }}>
-                {modules.map((mod, index) => (
+                {modules.map((mod) => (
                     <NavLink
                     key={mod.path}
                     to={mod.path}

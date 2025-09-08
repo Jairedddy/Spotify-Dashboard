@@ -7,7 +7,6 @@ import { fetchSpotify } from '../utils/spotify';
 export default function Dashboard() {
     const { 
         profile, 
-        topTracks, 
         topArtists, 
         recentTracks, 
         loading,
