@@ -4,6 +4,8 @@ A comprehensive, interactive dashboard for visualizing your Spotify listening da
 
 ![Spotify Dashboard](https://img.shields.io/badge/React-19.1.1-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Spotify API](https://img.shields.io/badge/Spotify-API-1db954)
 
+## [Application link](https://spotify-dashbored.netlify.app/)
+
 ## ✨ Features
 
 ### 🎯 Core Modules
