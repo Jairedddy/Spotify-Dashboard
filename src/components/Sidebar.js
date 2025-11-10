@@ -141,12 +141,9 @@ export default function Sidebar() {
                 borderTop: '1px solid rgba(255, 255, 255, 0.05)',
                 textAlign: 'center'
             }}>
-                <div style={{
-                    fontSize: '0.8em',
-                    color: 'var(--muted)',
-                    opacity: 0.6
-                }}>
-                    Made with ❤️
+                <div style={{ fontSize: '0.8em', color: 'var(--muted)', opacity: 0.6 }}>Made with ❤️</div>
+                <div style={{ fontSize: '0.75em', color: 'var(--muted)', opacity: 0.45, marginTop: '0.25em' }}>
+                    Built by Jai Redddy
                 </div>
             </div>
             </aside>
